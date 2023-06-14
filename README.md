@@ -7,7 +7,7 @@
 ## Project overview
 The "ArgoMusicPianoApp" project is a simple piano application created using the Pygame library in Python. 
 The application provides a graphical user interface where users can play piano notes by clicking on the keys displayed on the screen. 
-The piano includes multiple octaves.
+The piano includes multiple octaves, and can be expanded if required by adding notes from the assets folder to the piano_lists.py file.
 
 requirements.txt: This file lists the required dependencies and their versions for running the project. 
 It is recommended to set up a conda virtual environment and install the dependencies using ```conda install --file requirements.txt```
